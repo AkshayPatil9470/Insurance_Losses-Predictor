@@ -1,1 +1,1 @@
-# Insurance_Losses-Predictor
+The vehicle insurance industry is not only highly competitive but also heavily reliant on data analytics to make informed decisions. In this case study, we delve into the efforts of "SafeDrive Insurance," a mid-sized vehicle insurance provider, to use data-driven insights for predicting claim losses accurately. SafeDrive Insurance recognizes that accurate prediction of claim losses is crucial for maintaining profitability and sustainable growth in a dynamic market.
